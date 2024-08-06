@@ -1,0 +1,21 @@
+Function Documentation for Calculator
+
+add(int a, int b)
+Adds two integers.
+
+Parameters
+`int a`: The first integer.
+`int b`: The second integer.
+
+ Returns
+`int`: The sum of `a` and `b`.
+
+subtract(int a, int b)
+Subtracts the second integer from the first.
+
+Parameters
+`int a`: The first integer.
+`int b`: The second integer.
+
+Returns
+`int`: The result of `a - b`.
